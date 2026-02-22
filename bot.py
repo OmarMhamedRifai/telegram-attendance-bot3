@@ -27,7 +27,7 @@ from telegram.error import BadRequest
 # ================== CONFIG ==================
 
 # !!! هام: استبدل هذا بالتوكن الحقيقي للبوت الخاص بك !!!
-BOT_TOKEN = "8533640296:AAEx4PUx7RzfeVB3EkTBz4iCe09xG2EjUuY" # <--- ضع التوكن هنا
+BOT_TOKEN = "8418131185:AAEDDXWDZK1OO9p_g7Hqo4UyIXdH8RXDTuo" # <--- ضع التوكن هنا
 
 # رقم PIN للدوكتور (يمكنك تغييره)
 DOCTOR_PIN = "1234"
@@ -413,3 +413,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
